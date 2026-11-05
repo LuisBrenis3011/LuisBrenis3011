@@ -1,78 +1,24 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Luis Morales Brenis · Backend Java · Reglas claras, datos consistentes" width="100%">
-</p>
+# 💫 About Me:
+I'm an 8th-term Software Engineering student at UNMSM 🏛️, specializing in Backend Architecture, distributed data pipelines, and scalable APIs[cite: 1, 3].<br><br>- ☕ **Backend & Architecture:** I design clean, resilient services and batch pipelines with Java 21, Spring Boot 3, Spring Batch, Spring WebFlux, and Spring Cloud[cite: 1, 3].<br>- 🗄️ **Databases & Caching:** Hands-on experience in data modeling, transactional integrity, and reactive persistence with PostgreSQL, MongoDB, Redis, and SQL Server[cite: 1, 4].<br>- 🤖 **Applied AI & Systems:** Built hybrid recommendation systems integrating Google Gemini (Structured Outputs) with deterministic scoring in Python & FastAPI[cite: 3].<br>- 🏆 **1st Place Winner** at the I "Shark Tank" Innovation & Entrepreneurship Congress (FISI - UNMSM)[cite: 4].<br>- 🚀 **Featured Projects:**<br>  - [Preliquidación por horas](https://github.com/LuisBrenis3011/batch-report-generator): Traceable payroll batch engine with Spring Batch, PostgreSQL, Testcontainers & PDF reporting[cite: 1].<br>  - [Eats Hub](https://github.com/LuisBrenis3011/Reservation-SpringWebFlux): High-concurrency reactive restaurant reservation engine using Spring WebFlux, MongoDB & Redis[cite: 1].<br>- 👥 **Leadership & Agile:** Coordinated operational teams of up to 20 people under high-pressure environments; experienced in Scrum workflows and clean code practices with SonarQube[cite: 3, 4].<br>- 🌐 **Live Portfolio:** [portfolio-web-gamma-tan.vercel.app](https://portfolio-web-gamma-tan.vercel.app)[cite: 7]<br>- 📍 Based in Lima, Perú 🇵🇪[cite: 3]
 
-<p align="center">
-  <a href="https://portfolio-web-gamma-tan.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-173C36?style=for-the-badge" alt="Portafolio"></a>
-  <a href="https://github.com/LuisBrenis3011?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-AD4125?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"></a>
-</p>
 
-## Hola, soy Luis
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=LuisBrenis3011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=LuisBrenis3011&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=LuisBrenis3011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Estudio **Ingeniería de Software en la Universidad Nacional Mayor de San Marcos** y estoy en búsqueda de **prácticas preprofesionales en desarrollo backend Java**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LuisBrenis3011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Me interesa construir servicios que resuelvan reglas de negocio concretas: validar información, conservar su historial y mantener datos consistentes cuando hay reintentos o cambios simultáneos.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Actualmente desarrollo proyectos con **Java y Spring Boot**, trabajando con procesamiento batch y APIs reactivas. Organizo el trabajo mediante especificaciones y utilizo asistencia de IA como parte de mi aprendizaje, con revisión del código y validación local.
-
-## Proyectos destacados
-
-### Preliquidación mensual por horas
-
-**Del archivo CSV a una versión mensual con historial, PDF y correo confirmado.**
-
-`Java 21` · `Spring Boot` · `Spring Batch` · `PostgreSQL` · `JasperReports`
-
-- Recepción de archivos con validación estructural, clasificación de filas y motivos de rechazo.
-- Cálculos monetarios con `BigDecimal` y activaciones explícitas que conservan las versiones anteriores.
-- Reportes PDF vigentes e históricos y correo con revisión, confirmación y trazabilidad del documento.
-
-**Estado:** validado localmente con pruebas automatizadas y un recorrido manual documentado. Prepara información para pagos; no ejecuta transferencias.
-
-[Ver código y documentación →](https://github.com/LuisBrenis3011/batch-report-generator) · [Conocer el proyecto →](https://portfolio-web-gamma-tan.vercel.app/proyectos/preliquidacion.html)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LuisBrenis3011&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=LuisBrenis3011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Eats Hub
-
-**Catálogo de restaurantes, disponibilidad y gestión de reservas.**
-
-`Java 21` · `Spring Boot` · `Spring WebFlux` · `MongoDB` · `Redis` · `JWT`
-
-- Consulta de restaurantes y disponibilidad de mesas y turnos.
-- Permisos por identidad, idempotencia y control de versiones mediante ETag.
-- Recorrido local con datos ficticios: confirmar, consultar, modificar y cancelar una reserva.
-
-**Estado:** en desarrollo. El recorrido de reservas fue comprobado manualmente, incluidos replay, acceso de otro cliente, versión obsoleta y persistencia tras reiniciar. La migración operativa y sus aprobaciones siguen pendientes.
-
-[Ver código y documentación →](https://github.com/LuisBrenis3011/Reservation-SpringWebFlux) · [Conocer el proyecto →](https://portfolio-web-gamma-tan.vercel.app/proyectos/eats-hub.html)
-
-## Tecnologías que uso en estos proyectos
-
-<p>
-  <img src="https://img.shields.io/badge/Java_21-173C36?style=for-the-badge" alt="Java 21">
-  <img src="https://img.shields.io/badge/Spring_Boot-173C36?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Spring_Batch-173C36?style=for-the-badge" alt="Spring Batch">
-  <img src="https://img.shields.io/badge/WebFlux-173C36?style=for-the-badge" alt="Spring WebFlux">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-AD4125?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-AD4125?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Redis-AD4125?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Git-323A38?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-323A38?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/JUnit-323A38?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
-  <img src="https://img.shields.io/badge/Maven_·_Gradle-323A38?style=for-the-badge" alt="Maven y Gradle">
-</p>
-
-## Mi enfoque
-
-**Entender el problema → definir reglas → implementar → comprobar el comportamiento.**
-
-En los repositorios documento las decisiones técnicas, los resultados observados y los límites actuales. Sigo aprendiendo sobre transacciones, concurrencia y diseño de APIs a través de estos proyectos.
-
-<p align="center">
-  <a href="https://portfolio-web-gamma-tan.vercel.app/#contacto">Conversemos</a> · Abierto a prácticas preprofesionales en backend Java
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
