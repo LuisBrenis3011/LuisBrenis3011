@@ -55,13 +55,13 @@ Backend reactivo de catálogo y reservas. A partir de una base de curso trabajé
 ![Lenguajes de los repositorios](https://github-readme-stats.shion.dev/api/top-langs/?username=LuisBrenis3011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Trofeos de GitHub
-![Trofeos del perfil](https://github-profile-trophy.vercel.app/?username=LuisBrenis3011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[Ver los logros del perfil](https://github.com/LuisBrenis3011?tab=achievements)
 
 ### Cita de desarrollo
 ![Cita de desarrollo](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Repositorios con más contribuciones
-![Repositorios con más contribuciones](https://github-contributor-stats.vercel.app/api?username=LuisBrenis3011&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Repositorios y contribuciones
+[Ver la actividad del perfil](https://github.com/LuisBrenis3011#js-contribution-activity) · [Ver los repositorios](https://github.com/LuisBrenis3011?tab=repositories)
 
 ---
 [![Visitas al perfil](https://komarev.com/ghpvc/?username=LuisBrenis3011&icon=0&color=0)](https://visitcount.itsvg.in)
