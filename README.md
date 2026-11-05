@@ -26,11 +26,9 @@ Backend reactivo de catálogo y reservas. A partir de una base de curso trabajé
 
 ## Otros proyectos
 
-| Proyecto | Alcance | Enlaces |
-| --- | --- | --- |
-| **Módulo de seguridad** | Proyecto académico de siete integrantes. Trabajé en OTP/MFA, protección de cuentas y reintentos de mensajería, con aportes en arquitectura y base de datos. Los PR documentan los cambios y su validación. | [Backend](https://github.com/Taller-SW-Web/Modulo-de-Seguridad-Backend) · [Documentación](https://github.com/Taller-SW-Web/Modulo-de-Seguridad) |
-| **E&M Animaciones** | Proyecto personal con Spring Boot y React para gestionar eventos y generar contratos PDF. El código está disponible y el recorrido integral queda por demostrar. | [Backend](https://github.com/LuisBrenis3011/E-M) · [Frontend](https://github.com/LuisBrenis3011/e-m-front) |
-| **Festio** | Proyecto grupal. Desarrollé la mayor parte del backend en FastAPI. Gemini extrae datos del mensaje y el motor en Python aplica reglas de catálogo, inventario y presupuesto. La validación del flujo conversacional sigue pendiente. | [Repositorio](https://github.com/LuisBrenis3011/formacion-festio) |
+- **Módulo de seguridad.** Proyecto académico de siete integrantes. Trabajé en OTP/MFA, protección de cuentas y reintentos de mensajería, con aportes en arquitectura y base de datos. Los PR documentan los cambios y su validación. [Backend](https://github.com/Taller-SW-Web/Modulo-de-Seguridad-Backend) · [Documentación](https://github.com/Taller-SW-Web/Modulo-de-Seguridad)
+- **E&M Animaciones.** Proyecto personal con Spring Boot y React para gestionar eventos y generar contratos PDF. El código está disponible y el recorrido integral queda por demostrar. [Backend](https://github.com/LuisBrenis3011/E-M) · [Frontend](https://github.com/LuisBrenis3011/e-m-front)
+- **Festio.** Proyecto grupal. Desarrollé la mayor parte del backend en FastAPI. Gemini extrae datos del mensaje y el motor en Python aplica reglas de catálogo, inventario y presupuesto. La validación del flujo conversacional sigue pendiente. [Repositorio](https://github.com/LuisBrenis3011/formacion-festio)
 
 ## Tecnologías
 
