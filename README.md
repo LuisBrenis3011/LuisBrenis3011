@@ -50,7 +50,7 @@ Backend reactivo de catálogo y reservas. A partir de una base de curso trabajé
 </picture>
 
 ## Estadísticas de GitHub
-![Estadísticas de LuisBrenis3011](https://github-readme-stats.shion.dev/api?username=LuisBrenis3011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Estadísticas de LuisBrenis3011](https://github-readme-stats.shion.dev/api?username=LuisBrenis3011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
 ![Racha de contribuciones](https://streak-stats.demolab.com/?user=LuisBrenis3011&theme=dark&hide_border=false)<br/>
 ![Lenguajes de los repositorios](https://github-readme-stats.shion.dev/api/top-langs/?username=LuisBrenis3011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
