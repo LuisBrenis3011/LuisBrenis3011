@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Luis Morales Brenis · Backend Java</title>
+  <desc id="desc">Estudiante de Ingeniería de Software en la UNMSM. Reglas claras, datos consistentes.</desc>
+  <rect width="1200" height="340" rx="16" fill="#173c36"/>
+  <path d="M920 0h280v340H850z" fill="#214d44"/>
+  <circle cx="1110" cy="86" r="125" fill="none" stroke="#d9e4b6" stroke-opacity=".2"/>
+  <circle cx="1110" cy="86" r="170" fill="none" stroke="#d9e4b6" stroke-opacity=".12"/>
+  <rect x="58" y="55" width="8" height="27" fill="#d9e4b6"/>
+  <text x="82" y="75" fill="#d9e4b6" font-family="monospace" font-size="18" letter-spacing="3">BACKEND JAVA / UNMSM</text>
+  <text x="58" y="151" fill="#f5f3ed" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Luis Morales Brenis</text>
+  <text x="61" y="204" fill="#e3e8de" font-family="Arial, Helvetica, sans-serif" font-size="25">Reglas claras. Datos consistentes.</text>
+  <path d="M60 242h1060" stroke="#f5f3ed" stroke-opacity=".2"/>
+  <text x="61" y="290" fill="#d9e4b6" font-family="monospace" font-size="18">SPRING BATCH · WEBFLUX · APRENDIZAJE CONTINUO</text>
+  <rect x="1090" y="265" width="29" height="29" rx="3" fill="#c86545"/>
+</svg>
