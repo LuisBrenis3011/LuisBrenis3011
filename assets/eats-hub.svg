@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="327" height="82"
+     viewBox="0 0 327 82" role="img" aria-labelledby="titulo">
+  <title id="titulo">Eats Hub</title>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .columna { animation: iluminar 480ms ease-out var(--espera) both; }
+      @keyframes iluminar { from { opacity: .45; } to { opacity: 1; } }
+    }
+  </style>
+  <rect width="327" height="82" rx="12" fill="#173c36"/>
+  <g class="columna" fill="#efaa8e" style="--espera:0ms">
+    <circle cx="13" cy="27" r="2.65"/>
+    <circle cx="13" cy="34" r="2.65"/>
+    <circle cx="13" cy="41" r="2.65"/>
+    <circle cx="13" cy="48" r="2.65"/>
+    <circle cx="13" cy="55" r="2.65"/>
+    <circle cx="13" cy="62" r="2.65"/>
+    <circle cx="13" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:23ms">
+    <circle cx="20" cy="27" r="2.65"/>
+    <circle cx="20" cy="48" r="2.65"/>
+    <circle cx="20" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:46ms">
+    <circle cx="27" cy="27" r="2.65"/>
+    <circle cx="27" cy="48" r="2.65"/>
+    <circle cx="27" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:69ms">
+    <circle cx="34" cy="27" r="2.65"/>
+    <circle cx="34" cy="48" r="2.65"/>
+    <circle cx="34" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:92ms">
+    <circle cx="41" cy="27" r="2.65"/>
+    <circle cx="41" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:138ms">
+    <circle cx="55" cy="34" r="2.65"/>
+    <circle cx="55" cy="41" r="2.65"/>
+    <circle cx="55" cy="48" r="2.65"/>
+    <circle cx="55" cy="55" r="2.65"/>
+    <circle cx="55" cy="62" r="2.65"/>
+    <circle cx="55" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:161ms">
+    <circle cx="62" cy="27" r="2.65"/>
+    <circle cx="62" cy="48" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:184ms">
+    <circle cx="69" cy="27" r="2.65"/>
+    <circle cx="69" cy="48" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:207ms">
+    <circle cx="76" cy="27" r="2.65"/>
+    <circle cx="76" cy="48" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:230ms">
+    <circle cx="83" cy="34" r="2.65"/>
+    <circle cx="83" cy="41" r="2.65"/>
+    <circle cx="83" cy="48" r="2.65"/>
+    <circle cx="83" cy="55" r="2.65"/>
+    <circle cx="83" cy="62" r="2.65"/>
+    <circle cx="83" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:276ms">
+    <circle cx="97" cy="27" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:299ms">
+    <circle cx="104" cy="27" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:322ms">
+    <circle cx="111" cy="27" r="2.65"/>
+    <circle cx="111" cy="34" r="2.65"/>
+    <circle cx="111" cy="41" r="2.65"/>
+    <circle cx="111" cy="48" r="2.65"/>
+    <circle cx="111" cy="55" r="2.65"/>
+    <circle cx="111" cy="62" r="2.65"/>
+    <circle cx="111" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:345ms">
+    <circle cx="118" cy="27" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:368ms">
+    <circle cx="125" cy="27" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:414ms">
+    <circle cx="139" cy="34" r="2.65"/>
+    <circle cx="139" cy="41" r="2.65"/>
+    <circle cx="139" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:437ms">
+    <circle cx="146" cy="27" r="2.65"/>
+    <circle cx="146" cy="48" r="2.65"/>
+    <circle cx="146" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:460ms">
+    <circle cx="153" cy="27" r="2.65"/>
+    <circle cx="153" cy="48" r="2.65"/>
+    <circle cx="153" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:483ms">
+    <circle cx="160" cy="27" r="2.65"/>
+    <circle cx="160" cy="48" r="2.65"/>
+    <circle cx="160" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:506ms">
+    <circle cx="167" cy="27" r="2.65"/>
+    <circle cx="167" cy="55" r="2.65"/>
+    <circle cx="167" cy="62" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:621ms">
+    <circle cx="202" cy="27" r="2.65"/>
+    <circle cx="202" cy="34" r="2.65"/>
+    <circle cx="202" cy="41" r="2.65"/>
+    <circle cx="202" cy="48" r="2.65"/>
+    <circle cx="202" cy="55" r="2.65"/>
+    <circle cx="202" cy="62" r="2.65"/>
+    <circle cx="202" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:644ms">
+    <circle cx="209" cy="48" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:667ms">
+    <circle cx="216" cy="48" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:690ms">
+    <circle cx="223" cy="48" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:713ms">
+    <circle cx="230" cy="27" r="2.65"/>
+    <circle cx="230" cy="34" r="2.65"/>
+    <circle cx="230" cy="41" r="2.65"/>
+    <circle cx="230" cy="48" r="2.65"/>
+    <circle cx="230" cy="55" r="2.65"/>
+    <circle cx="230" cy="62" r="2.65"/>
+    <circle cx="230" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:759ms">
+    <circle cx="244" cy="27" r="2.65"/>
+    <circle cx="244" cy="34" r="2.65"/>
+    <circle cx="244" cy="41" r="2.65"/>
+    <circle cx="244" cy="48" r="2.65"/>
+    <circle cx="244" cy="55" r="2.65"/>
+    <circle cx="244" cy="62" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:782ms">
+    <circle cx="251" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:805ms">
+    <circle cx="258" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:828ms">
+    <circle cx="265" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:851ms">
+    <circle cx="272" cy="27" r="2.65"/>
+    <circle cx="272" cy="34" r="2.65"/>
+    <circle cx="272" cy="41" r="2.65"/>
+    <circle cx="272" cy="48" r="2.65"/>
+    <circle cx="272" cy="55" r="2.65"/>
+    <circle cx="272" cy="62" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:897ms">
+    <circle cx="286" cy="27" r="2.65"/>
+    <circle cx="286" cy="34" r="2.65"/>
+    <circle cx="286" cy="41" r="2.65"/>
+    <circle cx="286" cy="48" r="2.65"/>
+    <circle cx="286" cy="55" r="2.65"/>
+    <circle cx="286" cy="62" r="2.65"/>
+    <circle cx="286" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:920ms">
+    <circle cx="293" cy="27" r="2.65"/>
+    <circle cx="293" cy="48" r="2.65"/>
+    <circle cx="293" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:943ms">
+    <circle cx="300" cy="27" r="2.65"/>
+    <circle cx="300" cy="48" r="2.65"/>
+    <circle cx="300" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:966ms">
+    <circle cx="307" cy="27" r="2.65"/>
+    <circle cx="307" cy="48" r="2.65"/>
+    <circle cx="307" cy="69" r="2.65"/>
+  </g>
+  <g class="columna" fill="#efaa8e" style="--espera:989ms">
+    <circle cx="314" cy="34" r="2.65"/>
+    <circle cx="314" cy="41" r="2.65"/>
+    <circle cx="314" cy="55" r="2.65"/>
+    <circle cx="314" cy="62" r="2.65"/>
+  </g>
+</svg>
